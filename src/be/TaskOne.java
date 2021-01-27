@@ -26,7 +26,7 @@ public class TaskOne {
     }
 
     private static void buildHorizontalSquareHalf(int i, int size){
-        //Print right triangle of pyramid
+
         for (int j = 1; j <= i; j++)
         {
             System.out.print(j);
